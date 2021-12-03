@@ -1,16 +1,43 @@
-### Hi there 👋
+# Olá, Eu sou o Hugo
 
-<!--
-**hugomacielads/hugomacielads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/hugomacielads">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomacielads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomacielads&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div aling="left">
+  <h2> Sobre mim.. </h2> </br>
+  🔭 Atualmente trabalho com suporte a integrações API entre marketplaces; </br>
+  🌱 Estou cursando o último ano do curso de Análise e Desenvolvimento de Sistemas; </br>
+  💬 Adoro estudar assuntos realcionados a automação de processos e inteligência artificial; </br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos 
+  - [x] Projeto Karangos React + MIUI
+  - [x] Projeto Fullstack POO - Java Spring + PostgreSQL + CSS/Bootstrap5
+  - [x] Curso Estrutura de Dados - JavaScript
+  - [x] Curso de Programação WEB React - React Hooks
+  - [ ] Curso de WebScrapping - Sellenium + Python
+  - [ ] Inteligência Artificial - TensorFlow + Python
+
+<div align="center">
+  <h3> Linguagens de programação</h3>
+  
+  <h3> Fullstack | Data Science</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="40" />
+</div>
+  
+<div align="center">
+  </br> ⚡ "Pense como quiser, faça como quiser, mas não culpe ninguém pelos seus resultados" </br>
+  📫 Franca/SP - 1998 </br>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:hugomacielcesar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugo-cesar-7520851a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
+  </div>
+  
