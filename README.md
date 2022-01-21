@@ -18,8 +18,8 @@
   - [x] Projeto Fullstack POO - Java Spring + PostgreSQL + CSS/Bootstrap5
   - [x] Curso Estrutura de Dados - JavaScript
   - [x] Curso de Programação WEB React - React Hooks
-  - [ ] Curso de WebScrapping - Sellenium + Python
-  - [ ] Inteligência Artificial - TensorFlow + Python
+  - [X] Projeto Data Sciente Machine Learning - Python + Scikit Learn
+  - [X] Projeto Automação com Python - TensorFlow + Python
 
 <div align="center">
   <h3> Linguagens de programação</h3>
