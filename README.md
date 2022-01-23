@@ -7,17 +7,20 @@
 ![capagithub](https://user-images.githubusercontent.com/70041844/150693140-c7b6c78d-cc2f-4542-ae26-bbe034410920.jpg)
 
 ## 💬 Sobre mim...
-  Cientista de Dados Junior, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
+  Estudante do último ano do curso de ADS da Faculdade de Tecnologia de Franca (FATEC). Me interesso muito sobre Ciência de Dados, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
+  
+  Final year student of the ADS course at the Faculdade de Tecnologia de Franca (FATEC). I'm very interested in Data Science, with a focus on data handling (ETL) and process automation using Python; I am currently specializing in the development of Analytical Models (predictive and descriptive) and Full-Stack applications using Django.
   
 </br>
 
 ## ✅ Projetos 
   - [x] Curso Estrutura de Dados - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" weight="30" />
   - [x] Curso de Programação WEB React - React Hooks <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" weight="30" />
-  - [x] Projeto Karangos React + MIUI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" weight="30" />
+  - [x] Projeto Karangos React + MIUI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" weight="30" />
   - [x] Projeto Fullstack POO - Java Spring + PostgreSQL + CSS/Bootstrap5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18" weight="30" />
   - [X] Projeto 01: Data Science Machine Learning - Python + Scikit Learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30" />
   - [X] Projeto 02: Automação do Calculo de Indicadores - Python + Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30"/>
+  - [ ] Projeto 03: Aplicação Fullstack E-Commerce: Pyhton + Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30"/>
 
 </br>
 
