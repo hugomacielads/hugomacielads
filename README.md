@@ -1,10 +1,6 @@
 # Olá, Eu sou o Hugo
 
-<div align="center">
-  <a href="https://github.com/hugomacielads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomacielads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomacielads&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![CapaGitHub](https://user-images.githubusercontent.com/70041844/150689720-0aafb35f-afb2-4b61-9f4a-67fa91de9104.jpg)
 
 <div aling="left">
   <h2> Sobre mim.. </h2> </br>
@@ -31,6 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="40" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/hugomacielads">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomacielads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomacielads&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center">
