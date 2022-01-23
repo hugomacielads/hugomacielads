@@ -6,15 +6,10 @@
   
 ![capagithub](https://user-images.githubusercontent.com/70041844/150693140-c7b6c78d-cc2f-4542-ae26-bbe034410920.jpg)
 
-
-<div aling="left">
-  <h2> Sobre mim.. </h2> </br>
-  🔭 Atualmente trabalho com suporte a integrações API entre marketplaces; </br>
-  🌱 Estou cursando o último ano do curso de Análise e Desenvolvimento de Sistemas; </br>
-  💬 Adoro estudar assuntos realcionados a automação de processos e inteligência artificial; </br>
-</div>
-
-<br></br>
+## 💬 Sobre mim...
+  Cientista de Dados Junior, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
+  
+</br>
 
 ## ✅ Projetos 
   - [x] Curso Estrutura de Dados - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" weight="30" />
@@ -24,7 +19,7 @@
   - [X] Projeto 01: Data Science Machine Learning - Python + Scikit Learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30" />
   - [X] Projeto 02: Automação do Calculo de Indicadores - Python + Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30"/>
 
-<br></br>
+</br>
 
 ## :rocket: Linguagens e Ferramentas ##
 
