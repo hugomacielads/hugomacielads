@@ -7,7 +7,7 @@
 ![capagithub](https://user-images.githubusercontent.com/70041844/150693140-c7b6c78d-cc2f-4542-ae26-bbe034410920.jpg)
 
 ## 💬 Sobre mim...
-  Estudante do último ano do curso de ADS da Faculdade de Tecnologia de Franca (FATEC). Me interesso muito sobre Ciência de Dados, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
+  Graduado no curso de ADS da Faculdade de Tecnologia de Franca (FATEC). Me interesso muito sobre Ciência de Dados, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
   
   Final year student of the ADS course at the Faculdade de Tecnologia de Franca (FATEC). I'm very interested in Data Science, with a focus on data handling (ETL) and process automation using Python; I am currently specializing in the development of Analytical Models (predictive and descriptive) and Full-Stack applications using Django.
   
