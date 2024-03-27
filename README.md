@@ -31,11 +31,3 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=Java)
 ![Django](https://img.shields.io/badge/-Django-black?style=plastic&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask)
-
-<br></br>
-  
-<div align="center">
-  <a href="https://github.com/hugomacielads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomacielads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomacielads&layout=compact&langs_count=7&theme=dark"/>
-</div>  
