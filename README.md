@@ -23,6 +23,6 @@ O site já está no ar através da plataforma Netlify!
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Módulo II - Java BackEnd 
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30" /> Afrocódigos - Módulo I - Python 
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18" weight="30"/> Projeto FullStack - ADS 2022/2 - Spring, bt5, postegreeSQL
-  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" weight="30"/>Estrutura de Dados - ADS 2022/1 - JavaScript
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" weight="30"/> Estrutura de Dados - ADS 2022/1 - JavaScript
 
 </br>
