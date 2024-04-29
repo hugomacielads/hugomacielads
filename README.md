@@ -1,33 +1,28 @@
 ### ⚡ "Não espere pelo momento perfeito. Faça de cada momento a oportunidade perfeita." <br></br>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="22"></a> 
-  <a href = "mailto:hugomacielcesar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" height="22"></a>
-  <a href="https://www.linkedin.com/in/hugo-cesar-7520851a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="22"></a> </br>
-  </div>
 
-## 💬 Sobre mim...
-  Graduado no curso de ADS da Faculdade de Tecnologia de Franca (FATEC). Me interesso muito sobre Ciência de Dados, com foco em tratamento de dados (ETL) e automação de processos usando Python; Atualmente estou me especializando no desenvolvimento de Modelos Analíticos (preditivos e descritivos) e aplicações Full-Stack utilizando Django.
-  
-</br>
-
-## ✅ Projetos 
-  - [x] Curso de Programação WEB React - React Hooks <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" weight="30" />
-  - [x] Projeto Karangos React + MIUI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" weight="30" />
-  - [x] Projeto Fullstack POO - Java Spring + PostgreSQL + CSS/Bootstrap5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18" weight="30" />
-
-</br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hugo-maciel-cesar)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:hugomacielcesar@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/wagxzStdcR)
 
 ## :rocket: Linguagens e Ferramentas ##
 
-#### 💻 Uso Diário:
-![Python](https://img.shields.io/badge/-Pyhton-black?style=plastic&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=PostgreSQL)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=plastic&logo=Jupyter)
-![Github](https://img.shields.io/badge/-Github-black?style=plastic&logo=Github)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,aws,netlify,&perline=8)](https://github.com/hugomacielads?tab=repositories)
 
-#### 🌱 Estou aprendendo:
-![NodeJS](https://img.shields.io/badge/-Node%20JS-black?style=plastic&logo=Node-JS)
-![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=Java)
-![Django](https://img.shields.io/badge/-Django-black?style=plastic&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask)
+## 💬 Sobre mim...
+Perfil analítico, dinâmico e inovador, orientado a resultados, com amplo conhecimento em softwares SaaS, ERP, CRM, análise e visualização de dados com programação Python e SQL.
+Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Franca (FATEC), com cerca de 3 anos de experiência nas áreas de suporte. orientação e atendimento através de softwares de gestão de relacionamento com o cliente.
+
+Acesse meu mais recente projeto, meu novo Blog! Vou abordar assuntos relacionados a Tecnologia, Inovação e Desenvolvimento Profissional.
+
+O site já está no ar através da plataforma Netlify!
+
+[blog-hugomaciel.netlify.app/](https://blog-hugomaciel.netlify.app/)
+
+## ✅ Projetos 
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Projeto Guiado - CRUD Produtos 
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Módulo II - Java BackEnd 
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30" /> Afrocódigos - Módulo I - Python 
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="18" weight="30"/> Projeto FullStack - ADS 2022/2 - Spring, bt5, postegreeSQL
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="18" weight="30"/>Estrutura de Dados - ADS 2022/1 - JavaScript
+
+</br>
