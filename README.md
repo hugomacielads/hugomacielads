@@ -9,12 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,aws,netlify,&perline=8)](https://github.com/hugomacielads?tab=repositories)
 
 ## 💬 Sobre mim...
-Perfil analítico, dinâmico e inovador, orientado a resultados, com amplo conhecimento em softwares SaaS, ERP, CRM, análise e visualização de dados com programação Python e SQL.
-Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Franca (FATEC), com cerca de 3 anos de experiência nas áreas de suporte. orientação e atendimento através de softwares de gestão de relacionamento com o cliente.
+Olá! Eu me chamo Hugo, tenho 26 anos, possuo perfil analítico, dinâmico e inovador, com uma orientação voltada para resultados. Tenho um conhecimento abrangente em softwares SaaS, ERP, CRM, além de habilidades em análise e visualização de dados utilizando programação Python e SQL. Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Franca (FATEC) e acumulo aproximadamente 3 anos de experiência nas áreas de suporte, orientação e atendimento ao cliente por meio de softwares de gestão de relacionamento.
 
-Acesse meu mais recente projeto, meu novo Blog! Vou abordar assuntos relacionados a Tecnologia, Inovação e Desenvolvimento Profissional.
+Convido-lhe a visitar meu projeto mais recente, um blog no qual discuto temas relacionados à Tecnologia, Inovação e Desenvolvimento Profissional.
 
-O site já está no ar através da plataforma Netlify!
+O site já se encontra disponível para acesso, hospedado na plataforma Netlify.
 
 [blog-hugomaciel.netlify.app/](https://blog-hugomaciel.netlify.app/)
 
