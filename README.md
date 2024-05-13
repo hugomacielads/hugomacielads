@@ -18,6 +18,7 @@ O site já se encontra disponível para acesso, hospedado na plataforma Netlify.
 [blog-hugomaciel.netlify.app/](https://blog-hugomaciel.netlify.app/)
 
 ## ✅ Projetos 
+  - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Projeto Guiado II - Gerenciamento de colaboradores
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Projeto Guiado - CRUD Produtos 
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="18" weight="30" /> Afrocódigos - Módulo II - Java BackEnd 
   - [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" weight="30" /> Afrocódigos - Módulo I - Python 
